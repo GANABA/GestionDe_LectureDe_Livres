@@ -29,7 +29,7 @@ Cette plateforme vous permet de suivre vos livres à lire et les livres que vous
 
 ## Auteur
 
-- GANABA Melki
+- GANABA R. Melchisédech
 
 ## Licence
 
